@@ -1,0 +1,13 @@
+.env
+mykey
+mykey.pub
+terraform.tfvars
+postgresql.conf
+pg_hba.conf
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+packer_output.txt
+terraform.tfstate
+amivar.tf
